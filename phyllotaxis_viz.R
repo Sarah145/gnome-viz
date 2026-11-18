@@ -1,6 +1,5 @@
 library(tidyverse)
 library(vcfR)
-library(ggforce)
 library(ggfx)
 library(ggtext)
 

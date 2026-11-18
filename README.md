@@ -1,6 +1,6 @@
 ## gnome-viz
 
-I enjoy finding new abstract ways to visualize my whole-genome sequencing data and this is where I store them. These visualizations are not meant to be informative - just look pretty!
+I enjoy finding new abstract ways to visualize my whole-genome sequencing data and this is where I store them. These visualizations are not meant to be informative in any way - just look pretty!
 
 ### Phyllotaxis visual
 
